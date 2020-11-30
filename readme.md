@@ -1,4 +1,3 @@
-
 NOTE CONCERNANT LA PAGE WEB "CV"
 --------------------------------
 
