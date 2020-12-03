@@ -4,6 +4,33 @@ body {
     font-family: sans-serif;
 }
 
+ul {
+    padding: 50px;
+    width: auto;
+    margin: auto;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: dodgerblue;
+}
+
+a:visited {
+    color: deeppink;
+}
+
+li {
+    width: 100px;
+    display: inline-block;
+    color: white;
+    list-style-type: none;
+}
+
 .glob {
     margin: auto;
     text-align: center;
@@ -145,4 +172,8 @@ side {
 
 .outil {
     font-variant: small-caps;
+}
+
+footer img {
+    width: 40px;
 }
