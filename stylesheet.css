@@ -11,6 +11,17 @@ ul {
     text-align: center;
 }
 
+li {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: auto;
+    display: inline-block;
+    color: white;
+    list-style-type: none;
+}
+
 a {
     color: white;
     text-decoration: none;
@@ -22,13 +33,6 @@ a:hover {
 
 a:visited {
     color: deeppink;
-}
-
-li {
-    width: 100px;
-    display: inline-block;
-    color: white;
-    list-style-type: none;
 }
 
 .glob {
@@ -175,5 +179,5 @@ side {
 }
 
 footer img {
-    width: 40px;
+    width: 30px;
 }
