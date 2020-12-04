@@ -7,7 +7,9 @@ UTILSISATION DE GIT
 Manipulation de Git en mode console :
 
 $ git config --global user.name "NOM Prénom"
+
 $ git config --global user.emain "adresse@email.net"
+
 $ cd dossier/local/cible/
 
 $ git init :                        Sert à se placer dans le dossier qui va servir de                                       base de travail.
